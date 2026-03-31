@@ -23,7 +23,7 @@ const SocialEngagement: React.FC = () => {
             items: ['Musiqa va ashula', 'Raqs va xoreografiya', 'Teatr studiyasi', 'Tasviriy san\'at', 'Foto va video san\'ati']
         },
         {
-            title: 'Ijtimoiy loyihalar va volontyorlik',
+            title: 'Volontyorlik',
             desc: "Biz jamiyat rivojiga hissa qo'shishni va ijtimoiy mas'uliyatni qadrlaymiz. Talabalarimiz turli xayriya aktsiyalari va ekologik loyihalarda faol ishtirok etishadi.",
             image: '/culture/social.png',
             items: ['Xayriya marafonlari', 'Yashil makon loyihasi', 'Bolalar uylariga tashrif', 'Keksalar holidan xabar olish']
